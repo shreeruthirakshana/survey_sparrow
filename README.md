@@ -56,7 +56,7 @@ jupyter notebook notebooks/churn_analysis.ipynb
 
 
 4. **Fast api server:**
-uvicorn src.main:app --reloadu
+uvicorn src.main:app --reload
 
 
 Usage
